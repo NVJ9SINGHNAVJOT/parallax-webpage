@@ -1,2 +1,2 @@
-# pro-parallax-webpage
+# Parallax Webpage
  
